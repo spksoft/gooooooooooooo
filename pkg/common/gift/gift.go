@@ -1,3 +1,0 @@
-package gift
-
-func New() {}
