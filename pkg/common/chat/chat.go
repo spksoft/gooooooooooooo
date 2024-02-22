@@ -1,0 +1,3 @@
+package chat
+
+func New() {}
